@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+new frontend/node_modules/
+webhook-platform/node_modules/
+
+# Build outputs & env files
+dist/
+build/
+new frontend/dist/
+new frontend/build/
+webhook-platform/dist/
+.env
+new frontend/.env
+new backend/.env
+
+# OS files
+.DS_Store
